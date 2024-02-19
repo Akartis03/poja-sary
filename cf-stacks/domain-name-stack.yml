@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: poja-saru-std22077 - Domain name
+Description: poja-sary-std22077 - Domain name
 
 Parameters:
   DomainName:
